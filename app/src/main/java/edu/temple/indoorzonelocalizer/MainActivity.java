@@ -10,7 +10,7 @@ import android.location.LocationManager;
 import android.widget.Toast;
 
 /**
- *
+ * Main activity class to display user's GPS coordinates
  */
 public class MainActivity extends AppCompatActivity {
     /**
